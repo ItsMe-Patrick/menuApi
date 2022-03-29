@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+cm2hXrps5KihjRcV8HJcLbqzAjEp/LPMz/wQHfpwdNf1ML+g5u6l/qmDxOWXgUEeHLW16HjjUSeibXo3A68KQ==",
+  "dgSpecHash": "7y1FDZB9MNswEy7Okxt0Epx2vF7tNrFVXHORI20Ved+BMNwjRDmbdnCx33dRiZ2jDZfIoYMyIQqCK2Oxai8ojA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TriX\\source\\repos\\MenuAPI\\MenuAPI.csproj",
+  "projectFilePath": "C:\\Users\\TriX\\source\\repos\\menuApi\\MenuAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TriX\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.15\\microsoft.aspnetcore.jsonpatch.5.0.15.nupkg.sha512",
     "C:\\Users\\TriX\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.15\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.15.nupkg.sha512",
