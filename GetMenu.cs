@@ -1,19 +1,15 @@
-﻿using MySqlConnector;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
-using System.Web.Mvc;
 
-namespace MenuAPI.Models
+namespace MenuAPI
 {
-
-    public class Menu
+    public class GetMenu
     {
         public int Id { get; set; }
         public string Name { get; set; }
+        public string Description { get; set; }
         public int Price { get; set; }
-
     }
 }
